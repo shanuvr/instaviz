@@ -81,5 +81,3 @@ The platform is split into two main parts:
 
 ---
 
-ers
- └─ config/             # AI tools & configuration
