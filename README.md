@@ -57,7 +57,7 @@ The platform is split into two main parts:
 - Clean separation of concerns
 
 ---
-
+ 
 ## 🛠️ Tech Stack
 
 ### Backend
