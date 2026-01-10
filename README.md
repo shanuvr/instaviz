@@ -6,7 +6,7 @@ The platform is split into two main parts:
 
 - **Backend** – Handles data ingestion, AI analysis, chart logic, authentication, and storage  
 - **Frontend** – Provides a clean, interactive UI for uploading data, chatting with AI, and visualizing insights  
-  
+   
 ---
 
 ## 🔗 Repository Links
