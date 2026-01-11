@@ -9,7 +9,7 @@ The platform is split into two main parts:
       
 ---
 
-## 🔗 Repository Links
+## 🔗 Repository Links 
 
 - **Frontend Repository**  
   https://github.com/devxtra-community/nextjs-instaviz.git
