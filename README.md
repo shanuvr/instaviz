@@ -56,7 +56,7 @@ The platform is split into two main parts:
 - Modular and scalable architecture
 - Clean separation of concerns
 
----
+--- 
  
 ## 🛠️ Tech Stack
 
