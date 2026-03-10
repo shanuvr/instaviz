@@ -9,7 +9,7 @@ The platform is split into two main parts:
 - **Frontend** – Provides a clean, interactive UI for uploading data, chatting with AI, and visualizing insights  
          
 ---      
-
+ 
 ## 🔗 Repository Links 
  
   https://github.com/devxtra-community/nextjs-instaviz.git
