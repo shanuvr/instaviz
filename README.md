@@ -1,6 +1,6 @@
                                                                                     
    # InstaviZ – AI Powered Data Visualization Platform
-
+ 
 InstaviZ is an **AI-powered data visualization platform** that allows users to upload CSV datasets, explore them interactively, chat with their data using natural language, and generate charts dynamically.
 
 The platform is split into two main parts:
