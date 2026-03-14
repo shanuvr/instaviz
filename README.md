@@ -14,7 +14,7 @@ The platform is split into two main parts:
  
   https://github.com/devxtra-community/nextjs-instaviz.git
 
-- **Backend Repository**  
+- **Backend Repository**   
   https://github.com/devxtra-community/nodejs-instaviz.git
 
 ---
